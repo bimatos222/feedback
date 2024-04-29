@@ -25,10 +25,10 @@ body {
 }
 
 .card {
-    background-color: var(--black-gradient);
+    background: var(--black-gradient);
     max-width: 412px;
     padding: 32px;
-    border-radius: 30p0x;
+    border-radius: 30px;
 }
 
 
