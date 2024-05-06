@@ -86,7 +86,7 @@ body {
 
 .botoes button:focus {
     color: var(--white);
-    background-color: var([--light-grey]);
+    background-color: var(--light-grey);
 }
 
 .card > a {
